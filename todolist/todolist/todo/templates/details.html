@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row">
+  <div class="col-sm-1 col-xs-2">
+  
+   <a href="/add" class="btn btn-default">Add Todo</a>
+</div>
+<div class="col-sm-1 col-xs-2">
+<a href="/" class="btn btn-default"><< Go Back</a>
+</div>
+</div>
+
+<h1>Title : {{todo.title}} </h1>
+<p>Priority : {{todo.priority}}</p>
+<P>Description: {{todo.text}} </P>
+<br>
+
+Created on {{todo.created_at}}
+
+<div class="row">
+  <div class="col-sm-1 col-xs-2">
+  
+   <a href="edit"  class="btn btn-default">Edit </a>
+</div>
+<div class="col-sm-1 col-xs-2">
+ <a href="delete"  class="btn btn-default">Delete </a>
+</div>
+
+
+{% endblock %}

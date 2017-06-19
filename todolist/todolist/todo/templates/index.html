@@ -1,0 +1,32 @@
+
+{% extends 'base.html' %}
+<!-- {% include 'partials/headers.html' %} -->
+{% block content %}
+
+<div class="row">
+  <div class="col-sm-1 col-xs-2">
+  
+   <a href="/add" class="btn btn-default">Add Todo</a>
+</div>
+</div>
+
+<h2>Welcome, {{ user.username }}!</h2>
+
+<!-- <ul class="list-group"> -->
+	{% for todo in todo %}
+	<a href="/details/{{todo.id}}">{{todo.title}}</a> 
+	<p>{{todo.text}}</p>
+	<!-- <li class="list-group-item" ><a href="/details/{{todo.id}}">{{todo.title}}</a>: {{todo.text}}
+	</li> -->
+	<hr/>
+	{% endfor %}
+
+<!-- </ul> -->
+
+	{% endblock %}
+<!-- {% include 'partials/footers.html' %} -->
+
+
+                    
+			                    
+		                    

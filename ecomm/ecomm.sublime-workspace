@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"stripe_id"
+			],
+			[
+				"user",
+				"user_stripe_account"
+			],
+			[
+				"use",
+				"user_stripe_account"
+			],
+			[
+				"pr",
+				"profiles"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"cus",
+				"customer_id"
+			],
+			[
+				"c",
+				"customer"
+			],
+			[
+				"s",
+				"stripe"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"i",
+				"idStripe"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"se",
+				"sender"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"P",
+				"publishKey"
+			],
+			[
+				"jq",
+				"jquery"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"con",
+				"confirm_message"
+			],
+			[
+				"f",
+				"fail_silently"
+			],
+			[
+				"e",
+				"emailTo"
+			],
+			[
+				"em",
+				"emailFrom"
+			],
+			[
+				"SUBJEC",
+				"subject"
+			],
+			[
+				"co",
+				"contactForm"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"titl",
+				"title_btn_url"
+			],
+			[
+				"M",
+				"ModuleAdmin"
+			],
+			[
+				"L",
+				"LecturerAdmin"
+			],
+			[
+				"S",
+				"SchoolAdmin"
+			],
+			[
+				"Mod",
+				"ModelAdmin"
+			],
+			[
+				"m",
+				"ModelAdmin"
+			],
+			[
+				"a",
+				"admin"
+			],
+			[
+				"MODEL",
+				"models"
+			],
+			[
+				"SC",
+				"school"
+			],
+			[
+				"sCH",
+				"School"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"fA",
+				"False"
+			],
+			[
+				"MOD",
+				"models"
+			],
+			[
+				"AU",
+				"auto_now_add"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"RE",
+				"request"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sa/Personalproject/ecomm/ecompage/checkout/views.py",
+		"/home/sa/Personalproject/ecomm/ecompage/checkout/templates/checkout.html",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/models.py",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/home.html",
+		"/home/sa/Personalproject/ecomm/ecompage/ecompage/urls.py",
+		"/home/sa/Personalproject/ecomm/ecompage/ecompage/settings.py",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/admin.py",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/base.html",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/views.py",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/navbar.html",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/profile.html",
+		"/home/sa/Personalproject/ecomm/ecompage/contact/templates/contact.html",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/account/signup.html",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/account/login.html",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/account/logout.html",
+		"/home/sa/Personalproject/ecomm/ecompage/contact/views.py",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/accounts/signup.html",
+		"/home/sa/Personalproject/ecomm/ecompage/contact/forms.py",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/contact.html",
+		"/home/sa/Personalproject/ecomm/static/static/css/main.css",
+		"/home/sa/Personalproject/ecomm/ecompage/profiles/templates/about.html",
+		"/home/sa/Personalproject/landingpage/work/pages/admin.py",
+		"/home/sa/Personalproject/landingpage/work/work/settings/local.py",
+		"/home/sa/Personalproject/landingpage/work/newsletter/forms.py",
+		"/home/sa/Personalproject/landingpage/work/newsletter/models.py",
+		"/home/sa/Personalproject/landingpage/work/newsletter/admin.py",
+		"/home/sa/Personalproject/landingpage/work/work/settings/base.py",
+		"/home/sa/Personalproject/landingpage/work/work/settings/production.py",
+		"/home/sa/Personalproject/landingpage/work/templates/base.html",
+		"/home/sa/Personalproject/landingpage/work/work/urls.py",
+		"/home/sa/Personalproject/landingpage/work/static/css/main.css",
+		"/home/sa/Personalproject/landingpage/work/static/main.css",
+		"/home/sa/Personalproject/landingpage/work/live-static/media-root/text.txt",
+		"/home/sa/Personalproject/landingpage/work/Procfile",
+		"/home/sa/Personalproject/landingpage/work/requirements.txt",
+		"/home/sa/Personalproject/landingpage/work/runtime.txt",
+		"/home/sa/Personalproject/landingpage/work/.gitignore",
+		"/home/sa/Personalproject/landingpage/work/work/settings.py",
+		"/home/sa/Django/projects/moodle/url.py",
+		"/home/sa/Django/projects/moodle/templates/home.html",
+		"/home/sa/Django/projects/moodle/serializers.py",
+		"/home/sa/Django/projects/moodle/tests.py",
+		"/home/sa/Django/projects/projects/urls.py",
+		"/home/sa/Django/projects/moodle/admin.py",
+		"/home/sa/Django/projects/moodle/templates/form.html",
+		"/home/sa/Django/projects/moodle/forms.py",
+		"/home/sa/Django/projects/projects/settings.py",
+		"/home/sa/Django/projects/moodle/views.py",
+		"/home/sa/Django/projects/moodle/models.py",
+		"/home/sa/FlaskLearn/routes.py",
+		"/home/sa/FlaskLearn/templates/signup.html",
+		"/home/sa/FlaskLearn/forms.py",
+		"/home/sa/FlaskLearn/templates/index.html",
+		"/home/sa/Downloads/Flask lEAN/Ex_Files_Learning_Flask/section-4/routes.py",
+		"/home/sa/FlaskLearn/venv/lib/python3.5/site-packages/pip/download.py",
+		"/home/sa/Downloads/Flask lEAN/Ex_Files_Learning_Flask/section-4/templates/signup.html",
+		"/home/sa/FlaskLearn/Procfile",
+		"/home/sa/Downloads/Flask lEAN/Ex_Files_Learning_Flask/section-2/templates/about.html",
+		"/home/sa/FlaskLearn/templates/layout.html",
+		"/home/sa/FlaskLearn/static/css/main.css",
+		"/home/sa/Downloads/Flask lEAN/Ex_Files_Learning_Flask/section-2/static/css/main.css",
+		"/home/sa/Downloads/Flask lEAN/Ex_Files_Learning_Flask/section-2/routes.py",
+		"/home/sa/Downloads/Flask lEAN/Ex_Files_Learning_Flask/section-2/templates/layout.html",
+		"/home/sa/Downloads/Flask lEAN/Ex_Files_Learning_Flask/section-2/templates/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/sa/FlaskLearn"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".git/",
+			"/.git"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecomm.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

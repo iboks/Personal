@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+<!-- {% include 'partials/headers.html' %} -->
+{% block content %}
+
+<div class="row">
+  <div class="col-sm-1 col-xs-2">
+  
+   <a href="/add" class="btn btn-default">Add Todo</a>
+</div>
+<div class="col-sm-1 col-xs-2">
+<a href="/" class="btn btn-default"><< Go Back</a>
+</div>
+</div>
+
+<form action="" method="post">
+     
+     {% csrf_token %}
+	{{ form.as_p }}
+ 	
+ 	<input type="submit">
+ </form>
+ {% endblock %}
